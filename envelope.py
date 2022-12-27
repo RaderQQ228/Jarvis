@@ -1,5 +1,5 @@
 from currency_converter import CurrencyConverter
-import funcs
+import functions as funcs
 def convertation():
     class CurrencyError(Exception):
         pass
