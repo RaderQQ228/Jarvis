@@ -1,5 +1,5 @@
 import requests
-import funcs
+import functions as funcs
 
 def translate():
     url = 'https://translate.yandex.net/api/v1.5/tr.json/translate?'
