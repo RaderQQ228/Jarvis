@@ -1,4 +1,4 @@
-import functions as funcs
+import funcs
 def calculator():
     try:
         list_of_nums = funcs.voice.split()
@@ -25,4 +25,4 @@ def calculator():
             ans = num_1 ** num_2
         funcs.speak("{0} {1} {2} = {3}".format(list_of_nums[-3], list_of_nums[-2], list_of_nums[-1], ans))
     except:
-        funcs.speak("Скажите, например: Сколько будет 5+5?")
+        funcs.speak("Скажите, например: Сколько будет 5+5?") #5454
