@@ -1,4 +1,4 @@
-import funcs
+import functions as funcs
 def calculator():
     try:
         list_of_nums = funcs.voice.split()
