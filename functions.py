@@ -9,6 +9,8 @@ import calculator
 import envelope
 import translator
 
+import time
+
 
 opts = {"alias": ('pythonguru', 'пайтонгуру', 'гурупайтон'),
         "tbr": ('скажи', 'расскажи', 'покажи', 'сколько', 'произнеси', 'как','сколько','поставь','переведи', "засеки",'запусти','сколько будет'),
