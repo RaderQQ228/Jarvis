@@ -1,4 +1,4 @@
-import funcs
+import functions as funcs
 import time
 import datetime
 
